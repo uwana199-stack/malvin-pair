@@ -87,7 +87,7 @@ https://whatsapp.com/channel/0029Vb6QmBO3LdQSbKC7F145
 
 *💻 Source Code:*  
 Fork & explore the project on GitHub:  
-https://github.com/XdKing2/MALVIN-XD
+https://github.com/XdKing2/healtless-XD
 
 ——————
 
@@ -98,7 +98,7 @@ text: desc,
 contextInfo: {
 externalAdReply: {
 title: "ᴍᴀʟᴠɪɴ-xᴅ 𝕮𝖔𝖓𝖓𝖊𝖈𝖙𝖊𝖉",
-thumbnailUrl: "https://files.catbox.moe/bqs70b.jpg",
+thumbnailUrl: "https://files.catbox.moe/o0yh4r.jpg",
 sourceUrl: "https://whatsapp.com/channel/0029Vb6QmBO3LdQSbKC7F145",
 mediaType: 1,
 renderLargerThumbnail: true
@@ -132,7 +132,7 @@ text: desc,
 contextInfo: {
 externalAdReply: {
 title: "ᴍᴀʟᴠɪɴ-xᴅ 𝕮𝖔𝖓𝖓𝖊𝖈𝖙𝖊𝖉 ✅  ",
-thumbnailUrl: "https://files.catbox.moe/bqs70b.jpg",
+thumbnailUrl: "https://files.catbox.moe/o0yh4r.jpg",
 sourceUrl: "https://whatsapp.com/channel/0029VbA6MSYJUM2TVOzCSb2A",
 mediaType: 2,
 renderLargerThumbnail: true,
